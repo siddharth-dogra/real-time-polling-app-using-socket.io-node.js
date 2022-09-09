@@ -1,0 +1,41 @@
+#button1 {
+    color: #eeeeee;
+    background-color: orange;
+    border-color: orange;
+}
+
+#button1:hover {
+    background-color: #DA7740;
+    border-color: #DA7740;
+}
+
+#button2 {
+    color: #eeeeee;
+    background-color:skyblue ;
+    border-color: skyblue;
+}
+
+#button2:hover {
+    background-color: #3399B9;
+    border-color: #3399B9;
+}
+
+#button3 {
+    color:#eeeeee;
+    background-color: magenta;
+    border-color: magenta;
+}
+
+#button3:hover {
+    background-color: #B5383E;
+    border-color: #B5383E;
+}
+#button4{
+    color: #eeeeee;
+    background-color: aqua;
+    border-color: aqua;
+}
+#button4:hover{
+    background: rgb(23, 141, 141);
+    border-color: rgb(23, 141, 141);
+}
